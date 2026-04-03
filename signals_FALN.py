@@ -66,7 +66,7 @@ with st.sidebar:
         "FRED API Key",
         type="password",
         help="Free key at https://fred.stlouisfed.org/docs/api/api_key.html",
-        placeholder="d0d2c8e46964b4dd9fafc65fe9141aa8",
+        placeholder="enter you API key here",
     )
 
     st.markdown("---")
